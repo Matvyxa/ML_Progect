@@ -16,7 +16,7 @@ Age (float64)
 Модель: RandomForestClassifier
 
 Клонируем репозиторий и создаем образ
-$ git clone https://github.com/Matvyxa/ML_Progect.git
+$ git clone https://github.com/Matvyxa/ML_Project.git
 $ cd GB_docker_flask_example
 $ docker build -t Matvyxa/gb_docker_flask_example .
 Запускаем контейнер
